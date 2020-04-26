@@ -1,6 +1,15 @@
 
 # ANBCDEPTRAI - HO THAI AN Prototypes and Implementations
 
+# [ITEMS & INVENTORY]
+- Scriptable Object Items
+  - Name
+  - Icon
+- Inventory
+  - Grid Layout UI
+  - List of Storing Items
+  - Inventory Item Slot: Item and Icon for each Storing Items
+
 # [THIRD PERSON CAMERA]
 - Pivot Parent
 - Following Player
