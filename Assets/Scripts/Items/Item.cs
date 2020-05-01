@@ -10,7 +10,4 @@ public class Item : ScriptableObject
     public Sprite icon;
 
     // Base Using Method
-    public virtual void Use() {
-
-    }
 }

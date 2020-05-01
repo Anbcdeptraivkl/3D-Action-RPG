@@ -6,9 +6,21 @@
   - Name
   - Icon
 - Inventory
-  - Grid Layout UI
+  - Grid Layout UI: Group with Equipment and Stat Overview (for easy Comparison on Equipping)
   - List of Storing Items
   - Inventory Item Slot: Item and Icon for each Storing Items
+  - Adding + Removing
+  - Inventory Refreshing + Updating
+- Equipment
+  - Layout UI with Equipment Panel and SLots (Derived from Item Slot, but exclusive for Equipment Panel)
+  - Derived Scriptable Object
+  - Scriptable Types (Derived from Item)
+  - Adding + Removing
+  - Swapping with Inventory
+- Inventory Manager
+  - Events
+    - Equip from Inventory to Equipments by Right-clicking Item Slots inside Inventory Panel
+    - Unequip by Right-clicking Equipment Slots
 
 # [THIRD PERSON CAMERA]
 - Pivot Parent

@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b6d3d01f545d014082e94839a0b4f68, type: 3}
-  m_Name: Round Shield
+  m_Name: Viking Helmet
   m_EditorClassIdentifier: 
-  itemName: Horned Helmet
-  icon: {fileID: 21300000, guid: 4cb6a21e8b1e94f4ca394170155ab826, type: 3}
-  type: 3
+  itemName: Viking Helmet
+  icon: {fileID: 21300000, guid: dec75eb823ba2bf4d97a0eeeb667c5cb, type: 3}
+  type: 0
   strength: 0
   strenghPercent: 0
   agility: 0
