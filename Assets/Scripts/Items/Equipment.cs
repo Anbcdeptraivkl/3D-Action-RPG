@@ -16,9 +16,9 @@ public enum EquipmentType {
 public class Equipment : Item
 {
     public EquipmentType type;
-    [Space]
+    [Header("Stats")]
+    // Percentages are Applied AFTER the flat Stats
     public int strength; public float strenghPercent;
     public int agility; public float agilityPercent;
     public int intelligence; public float intelligencePercent;
-    public int vitality; public float vitalityPercent;
 }

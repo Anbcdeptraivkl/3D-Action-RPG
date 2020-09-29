@@ -5,6 +5,7 @@
 - Scriptable Object Items
   - Name
   - Icon
+- Scaled CHaracter Panel UI
 - Inventory
   - Grid Layout UI: Group with Equipment and Stat Overview (for easy Comparison on Equipping)
   - List of Storing Items
